@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2023-12-04 15.40.59 - A minimalist app icon for an app called 'Minimal Money', focused on saving and tracking finances. The icon should be simple and clean, with a dominant.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
