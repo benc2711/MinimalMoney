@@ -40,8 +40,11 @@ The additional code for "Minimal Money" adds several features and views, further
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+Firebase Authentication Integration
+Firestore Database Usage
+MVVM Architecture Implementation
+Swift Charts Refactoring
+SwiftUI
+User Notifications
+User Location / Core Location
 
