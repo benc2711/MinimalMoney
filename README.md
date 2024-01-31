@@ -10,7 +10,7 @@ A simplistic budgeting app meant to help low-income people, young adults, and co
 
 
 ## Demo
-![](https://github.com/MinimalMoney/MinMoneyDemo.gif)
+![](https://github.com/benc2711/MinimalMoney/blob/main/MinMoneyDemo.gif)
 
 ## Description 
 
